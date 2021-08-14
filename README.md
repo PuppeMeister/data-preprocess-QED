@@ -1,2 +1,3 @@
 # data-preprocess-QED
-Data Preparation For QED Dataset to undergo futher machine learning process using Panda and Numpy
+This repository is aimed for documenting the preprocessing steps of Quantitative Estimation of Dehydration before undergo machine learning training.    
+
